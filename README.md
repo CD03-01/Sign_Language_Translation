@@ -1,4 +1,5 @@
 # Sign_Language_Translation
+모델을 학습하는 과정을 위한 코드입니다.
 
 ## 🔗 참고한 프로젝트
 
